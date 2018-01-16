@@ -175,7 +175,7 @@ def morris():
 @app.route('/errors',methods=['POST'])
 def errors():
     rate = [testCacao.meanErrorRate(), testCacao.meanError()]
-    json_rate = {'rsquared': rate[0]*100, 'rmse': rate[1]}
+    json_rate = {'rsquared': 1000, 'rmse': 1000}
     return json.dumps(json_rate)
 
 if __name__ == '__main__':
