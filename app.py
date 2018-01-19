@@ -5,8 +5,6 @@ import numpy
 import math
 import json
 
-app = Flask(__name__)
-
 def exponent(value,exp):
     temp = 1
     while exp > 0:
@@ -127,7 +125,6 @@ class MatrixLearner:
 app = Flask(__name__)
 
 testCacao = MatrixLearner(2)
-
 
 def toJSON(instance,actual):
     return {'value': instance[2],'year': instance[0],'region': instance[1], 'actual': actual}

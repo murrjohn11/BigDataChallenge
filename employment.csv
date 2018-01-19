@@ -1,0 +1,880 @@
+group,sector,year,quarter,total
+Agriculture,"Agriculture, Hunting and Forestry",2001,1,10252
+Agriculture,"Agriculture, Hunting and Forestry",2001,2,10915
+Agriculture,"Agriculture, Hunting and Forestry",2001,3,10980
+Agriculture,"Agriculture, Hunting and Forestry",2001,4,11253
+Agriculture,"Agriculture, Hunting and Forestry",2002,1,11006
+Agriculture,"Agriculture, Hunting and Forestry",2002,2,11025
+Agriculture,"Agriculture, Hunting and Forestry",2002,3,11144
+Agriculture,"Agriculture, Hunting and Forestry",2002,4,11311
+Agriculture,"Agriculture, Hunting and Forestry",2003,1,11150
+Agriculture,"Agriculture, Hunting and Forestry",2003,2,11155
+Agriculture,"Agriculture, Hunting and Forestry",2003,3,10831
+Agriculture,"Agriculture, Hunting and Forestry",2003,4,11741
+Agriculture,"Agriculture, Hunting and Forestry",2004,1,11174
+Agriculture,"Agriculture, Hunting and Forestry",2004,2,11113
+Agriculture,"Agriculture, Hunting and Forestry",2004,3,11450
+Agriculture,"Agriculture, Hunting and Forestry",2004,4,11785
+Agriculture,"Agriculture, Hunting and Forestry",2005,1,11359
+Agriculture,"Agriculture, Hunting and Forestry",2005,2,10993
+Agriculture,"Agriculture, Hunting and Forestry",2005,3,11990
+Agriculture,"Agriculture, Hunting and Forestry",2005,4,12171
+Agriculture,"Agriculture, Hunting and Forestry",2006,1,11678
+Agriculture,"Agriculture, Hunting and Forestry",2006,2,11281
+Agriculture,"Agriculture, Hunting and Forestry",2006,3,11725
+Agriculture,"Agriculture, Hunting and Forestry",2006,4,12043
+Agriculture,"Agriculture, Hunting and Forestry",2007,1,11639
+Agriculture,"Agriculture, Hunting and Forestry",2007,2,11853
+Agriculture,"Agriculture, Hunting and Forestry",2007,3,11489
+Agriculture,"Agriculture, Hunting and Forestry",2007,4,12160
+Agriculture,"Agriculture, Hunting and Forestry",2008,1,11793
+Agriculture,"Agriculture, Hunting and Forestry",2008,2,11905
+Agriculture,"Agriculture, Hunting and Forestry",2008,3,12103
+Agriculture,"Agriculture, Hunting and Forestry",2008,4,12321
+Agriculture,"Agriculture, Hunting and Forestry",2009,1,11846
+Agriculture,"Agriculture, Hunting and Forestry",2009,2,12313
+Agriculture,"Agriculture, Hunting and Forestry",2009,3,11940
+Agriculture,"Agriculture, Hunting and Forestry",2009,4,12072
+Agriculture,"Agriculture, Hunting and Forestry",2010,1,11806
+Agriculture,"Agriculture, Hunting and Forestry",2010,2,11512
+Agriculture,"Agriculture, Hunting and Forestry",2010,3,12244
+Agriculture,"Agriculture, Hunting and Forestry",2010,4,12265
+Agriculture,"Agriculture, Hunting and Forestry",2011,1,11952
+Agriculture,"Agriculture, Hunting and Forestry",2011,2,12155
+Agriculture,"Agriculture, Hunting and Forestry",2011,3,12100
+Agriculture,"Agriculture, Hunting and Forestry",2011,4,12855
+Agriculture,"Agriculture, Hunting and Forestry",2012,1,12185
+Agriculture,"Agriculture, Hunting and Forestry",2012,2,12470
+Agriculture,"Agriculture, Hunting and Forestry",2012,3,11604
+Agriculture,"Agriculture, Hunting and Forestry",2012,4,12156
+Agriculture,"Agriculture, Hunting and Forestry",2013,1,11542
+Agriculture,"Agriculture, Hunting and Forestry",2013,2,11844
+Agriculture,"Agriculture, Hunting and Forestry",2013,3,11807
+Agriculture,"Agriculture, Hunting and Forestry",2013,4,12148
+Agriculture,"Agriculture, Hunting and Forestry",2014,1,10948
+Agriculture,"Agriculture, Hunting and Forestry",2014,2,11883
+Agriculture,"Agriculture, Hunting and Forestry",2014,3,11574
+Agriculture,"Agriculture, Hunting and Forestry",2014,4,11947
+Agriculture,"Agriculture, Hunting and Forestry",2015,1,11490
+Agriculture,"Agriculture, Hunting and Forestry",2015,2,11480
+Agriculture,"Agriculture, Hunting and Forestry",2015,3,10970
+Agriculture,"Agriculture, Hunting and Forestry",2015,4,11761
+Agriculture,"Agriculture, Hunting and Forestry",2016,1,10814
+Agriculture,"Agriculture, Hunting and Forestry",2016,2,10389
+Agriculture,"Agriculture, Hunting and Forestry",2016,3,11156
+Agriculture,"Agriculture, Hunting and Forestry",2016,4,11638
+Agriculture,"Agriculture, Hunting and Forestry",2017,1,10027
+Agriculture,"Agriculture, Hunting and Forestry",2017,2,10514
+Agriculture,Fishing,2001,1,1076
+Agriculture,Fishing,2001,2,1168
+Agriculture,Fishing,2001,3,1141
+Agriculture,Fishing,2001,4,1151
+Agriculture,Fishing,2002,1,1136
+Agriculture,Fishing,2002,2,1237
+Agriculture,Fishing,2002,3,1125
+Agriculture,Fishing,2002,4,1136
+Agriculture,Fishing,2003,1,1133
+Agriculture,Fishing,2003,2,1185
+Agriculture,Fishing,2003,3,1336
+Agriculture,Fishing,2003,4,1400
+Agriculture,Fishing,2004,1,1399
+Agriculture,Fishing,2004,2,1338
+Agriculture,Fishing,2004,3,1368
+Agriculture,Fishing,2004,4,1365
+Agriculture,Fishing,2005,1,1410
+Agriculture,Fishing,2005,2,1363
+Agriculture,Fishing,2005,3,1395
+Agriculture,Fishing,2005,4,1408
+Agriculture,Fishing,2006,1,1406
+Agriculture,Fishing,2006,2,1427
+Agriculture,Fishing,2006,3,1425
+Agriculture,Fishing,2006,4,1412
+Agriculture,Fishing,2007,1,1428
+Agriculture,Fishing,2007,2,1566
+Agriculture,Fishing,2007,3,1388
+Agriculture,Fishing,2007,4,1393
+Agriculture,Fishing,2008,1,1383
+Agriculture,Fishing,2008,2,1454
+Agriculture,Fishing,2008,3,1408
+Agriculture,Fishing,2008,4,1460
+Agriculture,Fishing,2009,1,1400
+Agriculture,Fishing,2009,2,1472
+Agriculture,Fishing,2009,3,1464
+Agriculture,Fishing,2009,4,1509
+Agriculture,Fishing,2010,1,1455
+Agriculture,Fishing,2010,2,1439
+Agriculture,Fishing,2010,3,1484
+Agriculture,Fishing,2010,4,1496
+Agriculture,Fishing,2011,1,1420
+Agriculture,Fishing,2011,2,1492
+Agriculture,Fishing,2011,3,1457
+Agriculture,Fishing,2011,4,1486
+Agriculture,Fishing,2012,1,1464
+Agriculture,Fishing,2012,2,1472
+Agriculture,Fishing,2012,4,1408
+Agriculture,Fishing,2013,1,1342
+Agriculture,Fishing,2013,2,1451
+Agriculture,Fishing,2013,3,1426
+Agriculture,Fishing,2013,4,1408
+Agriculture,Fishing,2014,1,1249
+Agriculture,Fishing,2014,2,1398
+Agriculture,Fishing,2014,3,1361
+Agriculture,Fishing,2014,4,1431
+Agriculture,Fishing,2015,1,1310
+Agriculture,Fishing,2015,2,1384
+Agriculture,Fishing,2015,3,1285
+Agriculture,Fishing,2015,4,1359
+Agriculture,Fishing,2016,1,1305
+Agriculture,Fishing,2016,2,1303
+Agriculture,Fishing,2016,3,1261
+Agriculture,Fishing,2016,4,1167
+Agriculture,Fishing,2017,1,1157
+Agriculture,Fishing,2017,2,1242
+Industry,Mining and Quarrying,2001,1,118
+Industry,Mining and Quarrying,2001,2,99
+Industry,Mining and Quarrying,2001,3,93
+Industry,Mining and Quarrying,2001,4,103
+Industry,Mining and Quarrying,2002,1,115
+Industry,Mining and Quarrying,2002,2,136
+Industry,Mining and Quarrying,2002,3,101
+Industry,Mining and Quarrying,2002,4,101
+Industry,Mining and Quarrying,2003,1,99
+Industry,Mining and Quarrying,2003,2,105
+Industry,Mining and Quarrying,2003,3,112
+Industry,Mining and Quarrying,2003,4,101
+Industry,Mining and Quarrying,2004,1,123
+Industry,Mining and Quarrying,2004,2,138
+Industry,Mining and Quarrying,2004,3,114
+Industry,Mining and Quarrying,2004,4,96
+Industry,Mining and Quarrying,2005,1,129
+Industry,Mining and Quarrying,2005,2,135
+Industry,Mining and Quarrying,2005,3,111
+Industry,Mining and Quarrying,2005,4,116
+Industry,Mining and Quarrying,2006,1,120
+Industry,Mining and Quarrying,2006,2,174
+Industry,Mining and Quarrying,2006,3,133
+Industry,Mining and Quarrying,2006,4,136
+Industry,Mining and Quarrying,2007,1,144
+Industry,Mining and Quarrying,2007,2,177
+Industry,Mining and Quarrying,2007,3,139
+Industry,Mining and Quarrying,2007,4,135
+Industry,Mining and Quarrying,2008,1,152
+Industry,Mining and Quarrying,2008,2,151
+Industry,Mining and Quarrying,2008,3,154
+Industry,Mining and Quarrying,2008,4,176
+Industry,Mining and Quarrying,2009,1,152
+Industry,Mining and Quarrying,2009,2,166
+Industry,Mining and Quarrying,2009,3,177
+Industry,Mining and Quarrying,2009,4,169
+Industry,Mining and Quarrying,2010,1,193
+Industry,Mining and Quarrying,2010,2,212
+Industry,Mining and Quarrying,2010,3,194
+Industry,Mining and Quarrying,2010,4,197
+Industry,Mining and Quarrying,2011,1,184
+Industry,Mining and Quarrying,2011,2,230
+Industry,Mining and Quarrying,2011,3,205
+Industry,Mining and Quarrying,2011,4,223
+Industry,Mining and Quarrying,2012,1,238
+Industry,Mining and Quarrying,2012,2,258
+Industry,Mining and Quarrying,2012,3,262
+Industry,Mining and Quarrying,2012,4,250
+Industry,Mining and Quarrying,2013,1,255
+Industry,Mining and Quarrying,2013,2,276
+Industry,Mining and Quarrying,2013,3,247
+Industry,Mining and Quarrying,2013,4,223
+Industry,Mining and Quarrying,2014,1,222
+Industry,Mining and Quarrying,2014,2,253
+Industry,Mining and Quarrying,2014,3,240
+Industry,Mining and Quarrying,2014,4,225
+Industry,Mining and Quarrying,2015,1,231
+Industry,Mining and Quarrying,2015,2,255
+Industry,Mining and Quarrying,2015,3,240
+Industry,Mining and Quarrying,2015,4,216
+Industry,Mining and Quarrying,2016,1,215
+Industry,Mining and Quarrying,2016,2,215
+Industry,Mining and Quarrying,2016,3,227
+Industry,Mining and Quarrying,2016,4,221
+Industry,Mining and Quarrying,2017,1,179
+Industry,Mining and Quarrying,2017,2,223
+Industry,Manufacturing,2001,1,2885
+Industry,Manufacturing,2001,2,2912
+Industry,Manufacturing,2001,3,2934
+Industry,Manufacturing,2001,4,2892
+Industry,Manufacturing,2002,1,2830
+Industry,Manufacturing,2002,2,2904
+Industry,Manufacturing,2002,3,2888
+Industry,Manufacturing,2002,4,2855
+Industry,Manufacturing,2003,1,2781
+Industry,Manufacturing,2003,2,2892
+Industry,Manufacturing,2003,3,3044
+Industry,Manufacturing,2003,4,3046
+Industry,Manufacturing,2004,1,3104
+Industry,Manufacturing,2004,2,3063
+Industry,Manufacturing,2004,3,3056
+Industry,Manufacturing,2004,4,3020
+Industry,Manufacturing,2005,1,2995
+Industry,Manufacturing,2005,2,3201
+Industry,Manufacturing,2005,3,3068
+Industry,Manufacturing,2005,4,3043
+Industry,Manufacturing,2006,1,2977
+Industry,Manufacturing,2006,2,3178
+Industry,Manufacturing,2006,3,3066
+Industry,Manufacturing,2006,4,3012
+Industry,Manufacturing,2007,1,3041
+Industry,Manufacturing,2007,2,3073
+Industry,Manufacturing,2007,3,3063
+Industry,Manufacturing,2007,4,3060
+Industry,Manufacturing,2008,1,2963
+Industry,Manufacturing,2008,2,2883
+Industry,Manufacturing,2008,3,2960
+Industry,Manufacturing,2008,4,2897
+Industry,Manufacturing,2009,1,2849
+Industry,Manufacturing,2009,2,2841
+Industry,Manufacturing,2009,3,2947
+Industry,Manufacturing,2009,4,2937
+Industry,Manufacturing,2010,1,3009
+Industry,Manufacturing,2010,2,3063
+Industry,Manufacturing,2010,3,3003
+Industry,Manufacturing,2010,4,3058
+Industry,Manufacturing,2011,1,2952
+Industry,Manufacturing,2011,2,3127
+Industry,Manufacturing,2011,3,3071
+Industry,Manufacturing,2011,4,3176
+Industry,Manufacturing,2012,1,3021
+Industry,Manufacturing,2012,2,3169
+Industry,Manufacturing,2012,3,3201
+Industry,Manufacturing,2012,4,3130
+Industry,Manufacturing,2013,1,3165
+Industry,Manufacturing,2013,2,3185
+Industry,Manufacturing,2013,3,3140
+Industry,Manufacturing,2013,4,3147
+Industry,Manufacturing,2014,1,3079
+Industry,Manufacturing,2014,2,3322
+Industry,Manufacturing,2014,3,3181
+Industry,Manufacturing,2014,4,3133
+Industry,Manufacturing,2015,1,3177
+Industry,Manufacturing,2015,2,3290
+Industry,Manufacturing,2015,3,3241
+Industry,Manufacturing,2015,4,3216
+Industry,Manufacturing,2016,1,3297
+Industry,Manufacturing,2016,2,3476
+Industry,Manufacturing,2016,3,3374
+Industry,Manufacturing,2016,4,3401
+Industry,Manufacturing,2017,1,3281
+Industry,Manufacturing,2017,2,3531
+Industry,"Electricity, Gas and Water Supply",2001,1,116
+Industry,"Electricity, Gas and Water Supply",2001,2,124
+Industry,"Electricity, Gas and Water Supply",2001,3,118
+Industry,"Electricity, Gas and Water Supply",2001,4,116
+Industry,"Electricity, Gas and Water Supply",2002,1,120
+Industry,"Electricity, Gas and Water Supply",2002,2,114
+Industry,"Electricity, Gas and Water Supply",2002,3,108
+Industry,"Electricity, Gas and Water Supply",2002,4,124
+Industry,"Electricity, Gas and Water Supply",2003,1,117
+Industry,"Electricity, Gas and Water Supply",2003,2,116
+Industry,"Electricity, Gas and Water Supply",2003,3,102
+Industry,"Electricity, Gas and Water Supply",2003,4,113
+Industry,"Electricity, Gas and Water Supply",2004,1,110
+Industry,"Electricity, Gas and Water Supply",2004,2,137
+Industry,"Electricity, Gas and Water Supply",2004,3,110
+Industry,"Electricity, Gas and Water Supply",2004,4,121
+Industry,"Electricity, Gas and Water Supply",2005,1,128
+Industry,"Electricity, Gas and Water Supply",2005,2,119
+Industry,"Electricity, Gas and Water Supply",2005,3,111
+Industry,"Electricity, Gas and Water Supply",2005,4,108
+Industry,"Electricity, Gas and Water Supply",2006,1,133
+Industry,"Electricity, Gas and Water Supply",2006,2,145
+Industry,"Electricity, Gas and Water Supply",2006,3,114
+Industry,"Electricity, Gas and Water Supply",2006,4,123
+Industry,"Electricity, Gas and Water Supply",2007,1,124
+Industry,"Electricity, Gas and Water Supply",2007,2,134
+Industry,"Electricity, Gas and Water Supply",2007,3,141
+Industry,"Electricity, Gas and Water Supply",2007,4,141
+Industry,"Electricity, Gas and Water Supply",2008,1,126
+Industry,"Electricity, Gas and Water Supply",2008,2,123
+Industry,"Electricity, Gas and Water Supply",2008,3,146
+Industry,"Electricity, Gas and Water Supply",2008,4,123
+Industry,"Electricity, Gas and Water Supply",2009,1,134
+Industry,"Electricity, Gas and Water Supply",2009,2,130
+Industry,"Electricity, Gas and Water Supply",2009,3,145
+Industry,"Electricity, Gas and Water Supply",2009,4,160
+Industry,"Electricity, Gas and Water Supply",2010,1,157
+Industry,"Electricity, Gas and Water Supply",2010,2,137
+Industry,"Electricity, Gas and Water Supply",2010,3,141
+Industry,"Electricity, Gas and Water Supply",2010,4,163
+Industry,"Electricity, Gas and Water Supply",2011,1,130
+Industry,"Electricity, Gas and Water Supply",2011,2,139
+Industry,"Electricity, Gas and Water Supply",2011,3,178
+Industry,"Electricity, Gas and Water Supply",2011,4,143
+Industry,"Electricity, Gas and Water Supply",2012,1,94
+Industry,"Electricity, Gas and Water Supply",2012,2,92
+Industry,"Electricity, Gas and Water Supply",2012,3,95
+Industry,"Electricity, Gas and Water Supply",2012,4,97
+Industry,"Electricity, Gas and Water Supply",2013,1,94
+Industry,"Electricity, Gas and Water Supply",2013,2,86
+Industry,"Electricity, Gas and Water Supply",2013,3,100
+Industry,"Electricity, Gas and Water Supply",2013,4,98
+Industry,"Electricity, Gas and Water Supply",2014,1,83
+Industry,"Electricity, Gas and Water Supply",2014,2,100
+Industry,"Electricity, Gas and Water Supply",2014,3,77
+Industry,"Electricity, Gas and Water Supply",2014,4,80
+Industry,"Electricity, Gas and Water Supply",2015,1,93
+Industry,"Electricity, Gas and Water Supply",2015,2,84
+Industry,"Electricity, Gas and Water Supply",2015,3,83
+Industry,"Electricity, Gas and Water Supply",2015,4,77
+Industry,"Electricity, Gas and Water Supply",2016,1,87
+Industry,"Electricity, Gas and Water Supply",2016,2,97
+Industry,"Electricity, Gas and Water Supply",2016,3,104
+Industry,"Electricity, Gas and Water Supply",2016,4,77
+Industry,"Electricity, Gas and Water Supply",2017,1,87
+Industry,"Electricity, Gas and Water Supply",2017,2,75
+Industry,Construction,2001,1,1563
+Industry,Construction,2001,2,1651
+Industry,Construction,2001,3,1556
+Industry,Construction,2001,4,1571
+Industry,Construction,2002,1,1531
+Industry,Construction,2002,2,1666
+Industry,Construction,2002,3,1597
+Industry,Construction,2002,4,1589
+Industry,Construction,2003,1,1585
+Industry,Construction,2003,2,1747
+Industry,Construction,2003,3,1712
+Industry,Construction,2003,4,1688
+Industry,Construction,2004,1,1713
+Industry,Construction,2004,2,1792
+Industry,Construction,2004,3,1653
+Industry,Construction,2004,4,1643
+Industry,Construction,2005,1,1725
+Industry,Construction,2005,2,1781
+Industry,Construction,2005,3,1709
+Industry,Construction,2005,4,1616
+Industry,Construction,2006,1,1652
+Industry,Construction,2006,2,1740
+Industry,Construction,2006,3,1694
+Industry,Construction,2006,4,1627
+Industry,Construction,2007,1,1668
+Industry,Construction,2007,2,1863
+Industry,Construction,2007,3,1841
+Industry,Construction,2007,4,1740
+Industry,Construction,2008,1,1740
+Industry,Construction,2008,2,1843
+Industry,Construction,2008,3,1870
+Industry,Construction,2008,4,1882
+Industry,Construction,2009,1,1721
+Industry,Construction,2009,2,1951
+Industry,Construction,2009,3,2004
+Industry,Construction,2009,4,1888
+Industry,Construction,2010,1,1963
+Industry,Construction,2010,2,2075
+Industry,Construction,2010,3,2071
+Industry,Construction,2010,4,1957
+Industry,Construction,2011,1,1998
+Industry,Construction,2011,2,2123
+Industry,Construction,2011,3,2175
+Industry,Construction,2011,4,2066
+Industry,Construction,2012,1,2094
+Industry,Construction,2012,2,2312
+Industry,Construction,2012,3,2304
+Industry,Construction,2012,4,2177
+Industry,Construction,2013,1,2284
+Industry,Construction,2013,2,2479
+Industry,Construction,2013,3,2425
+Industry,Construction,2013,4,2304
+Industry,Construction,2014,1,2343
+Industry,Construction,2014,2,2624
+Industry,Construction,2014,3,2555
+Industry,Construction,2014,4,2556
+Industry,Construction,2015,1,2519
+Industry,Construction,2015,2,2791
+Industry,Construction,2015,3,2853
+Industry,Construction,2015,4,2773
+Industry,Construction,2016,1,3045
+Industry,Construction,2016,2,3528
+Industry,Construction,2016,3,3503
+Industry,Construction,2016,4,3403
+Industry,Construction,2017,1,3215
+Industry,Construction,2017,2,3544
+Services,Wholesale and Retail Trade,2001,1,4964
+Services,Wholesale and Retail Trade,2001,2,5250
+Services,Wholesale and Retail Trade,2001,3,5278
+Services,Wholesale and Retail Trade,2001,4,5526
+Services,Wholesale and Retail Trade,2002,1,5518
+Services,Wholesale and Retail Trade,2002,2,5773
+Services,Wholesale and Retail Trade,2002,3,5538
+Services,Wholesale and Retail Trade,2002,4,5621
+Services,Wholesale and Retail Trade,2003,1,5599
+Services,Wholesale and Retail Trade,2003,2,5636
+Services,Wholesale and Retail Trade,2003,3,5509
+Services,Wholesale and Retail Trade,2003,4,5661
+Services,Wholesale and Retail Trade,2004,1,5823
+Services,Wholesale and Retail Trade,2004,2,5974
+Services,Wholesale and Retail Trade,2004,3,5901
+Services,Wholesale and Retail Trade,2004,4,5778
+Services,Wholesale and Retail Trade,2005,1,5910
+Services,Wholesale and Retail Trade,2005,2,6398
+Services,Wholesale and Retail Trade,2005,3,6064
+Services,Wholesale and Retail Trade,2005,4,6215
+Services,Wholesale and Retail Trade,2006,1,5996
+Services,Wholesale and Retail Trade,2006,2,6501
+Services,Wholesale and Retail Trade,2006,3,6406
+Services,Wholesale and Retail Trade,2006,4,6227
+Services,Wholesale and Retail Trade,2007,1,6418
+Services,Wholesale and Retail Trade,2007,2,6450
+Services,Wholesale and Retail Trade,2007,3,6370
+Services,Wholesale and Retail Trade,2007,4,6176
+Services,Wholesale and Retail Trade,2008,1,6333
+Services,Wholesale and Retail Trade,2008,2,6322
+Services,Wholesale and Retail Trade,2008,3,6599
+Services,Wholesale and Retail Trade,2008,4,6528
+Services,Wholesale and Retail Trade,2009,1,6635
+Services,Wholesale and Retail Trade,2009,2,6681
+Services,Wholesale and Retail Trade,2009,3,6725
+Services,Wholesale and Retail Trade,2009,4,6901
+Services,Wholesale and Retail Trade,2010,1,7064
+Services,Wholesale and Retail Trade,2010,2,6885
+Services,Wholesale and Retail Trade,2010,3,7030
+Services,Wholesale and Retail Trade,2010,4,7158
+Services,Wholesale and Retail Trade,2011,1,7275
+Services,Wholesale and Retail Trade,2011,2,7251
+Services,Wholesale and Retail Trade,2011,3,7300
+Services,Wholesale and Retail Trade,2011,4,7778
+Services,Hotels and Restaurants,2001,1,668
+Services,Hotels and Restaurants,2001,2,656
+Services,Hotels and Restaurants,2001,3,649
+Services,Hotels and Restaurants,2001,4,700
+Services,Hotels and Restaurants,2002,1,676
+Services,Hotels and Restaurants,2002,2,680
+Services,Hotels and Restaurants,2002,3,704
+Services,Hotels and Restaurants,2002,4,713
+Services,Hotels and Restaurants,2003,1,719
+Services,Hotels and Restaurants,2003,2,709
+Services,Hotels and Restaurants,2003,3,780
+Services,Hotels and Restaurants,2003,4,793
+Services,Hotels and Restaurants,2004,1,830
+Services,Hotels and Restaurants,2004,2,791
+Services,Hotels and Restaurants,2004,3,805
+Services,Hotels and Restaurants,2004,4,798
+Services,Hotels and Restaurants,2005,1,836
+Services,Hotels and Restaurants,2005,2,877
+Services,Hotels and Restaurants,2005,3,859
+Services,Hotels and Restaurants,2005,4,871
+Services,Hotels and Restaurants,2006,1,867
+Services,Hotels and Restaurants,2006,2,919
+Services,Hotels and Restaurants,2006,3,873
+Services,Hotels and Restaurants,2006,4,914
+Services,Hotels and Restaurants,2007,1,964
+Services,Hotels and Restaurants,2007,2,869
+Services,Hotels and Restaurants,2007,3,889
+Services,Hotels and Restaurants,2007,4,907
+Services,Hotels and Restaurants,2008,1,964
+Services,Hotels and Restaurants,2008,2,924
+Services,Hotels and Restaurants,2008,3,984
+Services,Hotels and Restaurants,2008,4,941
+Services,Hotels and Restaurants,2009,1,988
+Services,Hotels and Restaurants,2009,2,976
+Services,Hotels and Restaurants,2009,3,1064
+Services,Hotels and Restaurants,2009,4,1012
+Services,Hotels and Restaurants,2010,1,1104
+Services,Hotels and Restaurants,2010,2,991
+Services,Hotels and Restaurants,2010,3,1037
+Services,Hotels and Restaurants,2010,4,1119
+Services,Hotels and Restaurants,2011,1,1064
+Services,Hotels and Restaurants,2011,2,1043
+Services,Hotels and Restaurants,2011,3,1164
+Services,Hotels and Restaurants,2011,4,1202
+Services,"Transport, Storage and Communications",2001,1,2081
+Services,"Transport, Storage and Communications",2001,2,2108
+Services,"Transport, Storage and Communications",2001,3,2112
+Services,"Transport, Storage and Communications",2001,4,2171
+Services,"Transport, Storage and Communications",2002,1,2167
+Services,"Transport, Storage and Communications",2002,2,2104
+Services,"Transport, Storage and Communications",2002,3,2205
+Services,"Transport, Storage and Communications",2002,4,2171
+Services,"Transport, Storage and Communications",2003,1,2248
+Services,"Transport, Storage and Communications",2003,2,2287
+Services,"Transport, Storage and Communications",2003,3,2354
+Services,"Transport, Storage and Communications",2003,4,2352
+Services,"Transport, Storage and Communications",2004,1,2436
+Services,"Transport, Storage and Communications",2004,2,2359
+Services,"Transport, Storage and Communications",2004,3,2465
+Services,"Transport, Storage and Communications",2004,4,2446
+Services,"Transport, Storage and Communications",2005,1,2526
+Services,"Transport, Storage and Communications",2005,2,2389
+Services,"Transport, Storage and Communications",2005,3,2419
+Services,"Transport, Storage and Communications",2005,4,2471
+Services,"Transport, Storage and Communications",2006,1,2547
+Services,"Transport, Storage and Communications",2006,2,2479
+Services,"Transport, Storage and Communications",2006,3,2472
+Services,"Transport, Storage and Communications",2006,4,2469
+Services,"Transport, Storage and Communications",2007,1,2604
+Services,"Transport, Storage and Communications",2007,2,2553
+Services,"Transport, Storage and Communications",2007,3,2637
+Services,"Transport, Storage and Communications",2007,4,2600
+Services,"Transport, Storage and Communications",2008,1,2674
+Services,"Transport, Storage and Communications",2008,2,2575
+Services,"Transport, Storage and Communications",2008,3,2525
+Services,"Transport, Storage and Communications",2008,4,2587
+Services,"Transport, Storage and Communications",2009,1,2660
+Services,"Transport, Storage and Communications",2009,2,2628
+Services,"Transport, Storage and Communications",2009,3,2694
+Services,"Transport, Storage and Communications",2009,4,2735
+Services,"Transport, Storage and Communications",2010,1,2735
+Services,"Transport, Storage and Communications",2010,2,2741
+Services,"Transport, Storage and Communications",2010,3,2704
+Services,"Transport, Storage and Communications",2010,4,2711
+Services,"Transport, Storage and Communications",2011,1,2802
+Services,"Transport, Storage and Communications",2011,2,2697
+Services,"Transport, Storage and Communications",2011,3,2801
+Services,"Transport, Storage and Communications",2011,4,2799
+Services,Financial Intermediation,2001,1,285
+Services,Financial Intermediation,2001,2,277
+Services,Financial Intermediation,2001,3,292
+Services,Financial Intermediation,2001,4,314
+Services,Financial Intermediation,2002,1,299
+Services,Financial Intermediation,2002,2,301
+Services,Financial Intermediation,2002,3,329
+Services,Financial Intermediation,2002,4,318
+Services,Financial Intermediation,2003,1,285
+Services,Financial Intermediation,2003,2,286
+Services,Financial Intermediation,2003,3,311
+Services,Financial Intermediation,2003,4,329
+Services,Financial Intermediation,2004,1,327
+Services,Financial Intermediation,2004,2,339
+Services,Financial Intermediation,2004,3,348
+Services,Financial Intermediation,2004,4,298
+Services,Financial Intermediation,2005,1,304
+Services,Financial Intermediation,2005,2,364
+Services,Financial Intermediation,2005,3,358
+Services,Financial Intermediation,2005,4,337
+Services,Financial Intermediation,2006,1,343
+Services,Financial Intermediation,2006,2,337
+Services,Financial Intermediation,2006,3,346
+Services,Financial Intermediation,2006,4,372
+Services,Financial Intermediation,2007,1,344
+Services,Financial Intermediation,2007,2,343
+Services,Financial Intermediation,2007,3,365
+Services,Financial Intermediation,2007,4,384
+Services,Financial Intermediation,2008,1,364
+Services,Financial Intermediation,2008,2,366
+Services,Financial Intermediation,2008,3,369
+Services,Financial Intermediation,2008,4,373
+Services,Financial Intermediation,2009,1,337
+Services,Financial Intermediation,2009,2,389
+Services,Financial Intermediation,2009,3,376
+Services,Financial Intermediation,2009,4,375
+Services,Financial Intermediation,2010,1,384
+Services,Financial Intermediation,2010,2,383
+Services,Financial Intermediation,2010,3,420
+Services,Financial Intermediation,2010,4,412
+Services,Financial Intermediation,2011,1,447
+Services,Financial Intermediation,2011,2,406
+Services,Financial Intermediation,2011,3,418
+Services,Financial Intermediation,2011,4,466
+Services,"Real Estate, Renting and Business",2001,1,490
+Services,"Real Estate, Renting and Business",2001,2,506
+Services,"Real Estate, Renting and Business",2001,3,533
+Services,"Real Estate, Renting and Business",2001,4,534
+Services,"Real Estate, Renting and Business",2002,1,537
+Services,"Real Estate, Renting and Business",2002,2,552
+Services,"Real Estate, Renting and Business",2002,3,525
+Services,"Real Estate, Renting and Business",2002,4,560
+Services,"Real Estate, Renting and Business",2003,1,562
+Services,"Real Estate, Renting and Business",2003,2,563
+Services,"Real Estate, Renting and Business",2003,3,715
+Services,"Real Estate, Renting and Business",2003,4,716
+Services,"Real Estate, Renting and Business",2004,1,697
+Services,"Real Estate, Renting and Business",2004,2,669
+Services,"Real Estate, Renting and Business",2004,3,691
+Services,"Real Estate, Renting and Business",2004,4,702
+Services,"Real Estate, Renting and Business",2005,1,711
+Services,"Real Estate, Renting and Business",2005,2,775
+Services,"Real Estate, Renting and Business",2005,3,715
+Services,"Real Estate, Renting and Business",2005,4,736
+Services,"Real Estate, Renting and Business",2006,1,755
+Services,"Real Estate, Renting and Business",2006,2,814
+Services,"Real Estate, Renting and Business",2006,3,808
+Services,"Real Estate, Renting and Business",2006,4,813
+Services,"Real Estate, Renting and Business",2007,1,910
+Services,"Real Estate, Renting and Business",2007,2,907
+Services,"Real Estate, Renting and Business",2007,3,842
+Services,"Real Estate, Renting and Business",2007,4,881
+Services,"Real Estate, Renting and Business",2008,1,904
+Services,"Real Estate, Renting and Business",2008,2,953
+Services,"Real Estate, Renting and Business",2008,3,969
+Services,"Real Estate, Renting and Business",2008,4,985
+Services,"Real Estate, Renting and Business",2009,1,1044
+Services,"Real Estate, Renting and Business",2009,2,1023
+Services,"Real Estate, Renting and Business",2009,3,1090
+Services,"Real Estate, Renting and Business",2009,4,1100
+Services,"Real Estate, Renting and Business",2010,1,1119
+Services,"Real Estate, Renting and Business",2010,2,1061
+Services,"Real Estate, Renting and Business",2010,3,1166
+Services,"Real Estate, Renting and Business",2010,4,1239
+Services,"Real Estate, Renting and Business",2011,1,1195
+Services,"Real Estate, Renting and Business",2011,2,1277
+Services,"Real Estate, Renting and Business",2011,3,1214
+Services,"Real Estate, Renting and Business",2011,4,1340
+Services,"Public Administration and Defense, Compulsory Social Security",2001,1,1380
+Services,"Public Administration and Defense, Compulsory Social Security",2001,2,1402
+Services,"Public Administration and Defense, Compulsory Social Security",2001,3,1360
+Services,"Public Administration and Defense, Compulsory Social Security",2001,4,1385
+Services,"Public Administration and Defense, Compulsory Social Security",2002,1,1424
+Services,"Public Administration and Defense, Compulsory Social Security",2002,2,1445
+Services,"Public Administration and Defense, Compulsory Social Security",2002,3,1439
+Services,"Public Administration and Defense, Compulsory Social Security",2002,4,1461
+Services,"Public Administration and Defense, Compulsory Social Security",2003,1,1432
+Services,"Public Administration and Defense, Compulsory Social Security",2003,2,1466
+Services,"Public Administration and Defense, Compulsory Social Security",2003,3,1378
+Services,"Public Administration and Defense, Compulsory Social Security",2003,4,1382
+Services,"Public Administration and Defense, Compulsory Social Security",2004,1,1478
+Services,"Public Administration and Defense, Compulsory Social Security",2004,2,1623
+Services,"Public Administration and Defense, Compulsory Social Security",2004,3,1414
+Services,"Public Administration and Defense, Compulsory Social Security",2004,4,1450
+Services,"Public Administration and Defense, Compulsory Social Security",2005,1,1436
+Services,"Public Administration and Defense, Compulsory Social Security",2005,2,1497
+Services,"Public Administration and Defense, Compulsory Social Security",2005,3,1497
+Services,"Public Administration and Defense, Compulsory Social Security",2005,4,1494
+Services,"Public Administration and Defense, Compulsory Social Security",2006,1,1444
+Services,"Public Administration and Defense, Compulsory Social Security",2006,2,1515
+Services,"Public Administration and Defense, Compulsory Social Security",2006,3,1540
+Services,"Public Administration and Defense, Compulsory Social Security",2006,4,1541
+Services,"Public Administration and Defense, Compulsory Social Security",2007,1,1541
+Services,"Public Administration and Defense, Compulsory Social Security",2007,2,1549
+Services,"Public Administration and Defense, Compulsory Social Security",2007,3,1545
+Services,"Public Administration and Defense, Compulsory Social Security",2007,4,1569
+Services,"Public Administration and Defense, Compulsory Social Security",2008,1,1612
+Services,"Public Administration and Defense, Compulsory Social Security",2008,2,1661
+Services,"Public Administration and Defense, Compulsory Social Security",2008,3,1741
+Services,"Public Administration and Defense, Compulsory Social Security",2008,4,1690
+Services,"Public Administration and Defense, Compulsory Social Security",2009,1,1659
+Services,"Public Administration and Defense, Compulsory Social Security",2009,2,1794
+Services,"Public Administration and Defense, Compulsory Social Security",2009,3,1772
+Services,"Public Administration and Defense, Compulsory Social Security",2009,4,1771
+Services,"Public Administration and Defense, Compulsory Social Security",2010,1,1823
+Services,"Public Administration and Defense, Compulsory Social Security",2010,2,1959
+Services,"Public Administration and Defense, Compulsory Social Security",2010,3,1835
+Services,"Public Administration and Defense, Compulsory Social Security",2010,4,1771
+Services,"Public Administration and Defense, Compulsory Social Security",2011,1,1806
+Services,"Public Administration and Defense, Compulsory Social Security",2011,2,1939
+Services,"Public Administration and Defense, Compulsory Social Security",2011,3,1908
+Services,"Public Administration and Defense, Compulsory Social Security",2011,4,1842
+Services,Education,2001,1,892
+Services,Education,2001,2,886
+Services,Education,2001,3,948
+Services,Education,2001,4,955
+Services,Education,2002,1,932
+Services,Education,2002,2,913
+Services,Education,2002,3,956
+Services,Education,2002,4,939
+Services,Education,2003,1,968
+Services,Education,2003,2,934
+Services,Education,2003,3,886
+Services,Education,2003,4,915
+Services,Education,2004,1,937
+Services,Education,2004,2,882
+Services,Education,2004,3,976
+Services,Education,2004,4,958
+Services,Education,2005,1,959
+Services,Education,2005,2,957
+Services,Education,2005,3,1005
+Services,Education,2005,4,989
+Services,Education,2006,1,1017
+Services,Education,2006,2,1030
+Services,Education,2006,3,995
+Services,Education,2006,4,1009
+Services,Education,2007,1,1032
+Services,Education,2007,2,998
+Services,Education,2007,3,1067
+Services,Education,2007,4,1043
+Services,Education,2008,1,1083
+Services,Education,2008,2,1028
+Services,Education,2008,3,1076
+Services,Education,2008,4,1096
+Services,Education,2009,1,1157
+Services,Education,2009,2,1068
+Services,Education,2009,3,1157
+Services,Education,2009,4,1168
+Services,Education,2010,1,1146
+Services,Education,2010,2,1156
+Services,Education,2010,3,1238
+Services,Education,2010,4,1165
+Services,Education,2011,1,1212
+Services,Education,2011,2,1169
+Services,Education,2011,3,1226
+Services,Education,2011,4,1189
+Services,Health and Social Work,2001,1,301
+Services,Health and Social Work,2001,2,305
+Services,Health and Social Work,2001,3,312
+Services,Health and Social Work,2001,4,339
+Services,Health and Social Work,2002,1,349
+Services,Health and Social Work,2002,2,355
+Services,Health and Social Work,2002,3,342
+Services,Health and Social Work,2002,4,347
+Services,Health and Social Work,2003,1,378
+Services,Health and Social Work,2003,2,371
+Services,Health and Social Work,2003,3,364
+Services,Health and Social Work,2003,4,370
+Services,Health and Social Work,2004,1,365
+Services,Health and Social Work,2004,2,341
+Services,Health and Social Work,2004,3,375
+Services,Health and Social Work,2004,4,361
+Services,Health and Social Work,2005,1,382
+Services,Health and Social Work,2005,2,375
+Services,Health and Social Work,2005,3,380
+Services,Health and Social Work,2005,4,362
+Services,Health and Social Work,2006,1,351
+Services,Health and Social Work,2006,2,371
+Services,Health and Social Work,2006,3,366
+Services,Health and Social Work,2006,4,376
+Services,Health and Social Work,2007,1,388
+Services,Health and Social Work,2007,2,356
+Services,Health and Social Work,2007,3,353
+Services,Health and Social Work,2007,4,396
+Services,Health and Social Work,2008,1,390
+Services,Health and Social Work,2008,2,384
+Services,Health and Social Work,2008,3,386
+Services,Health and Social Work,2008,4,406
+Services,Health and Social Work,2009,1,435
+Services,Health and Social Work,2009,2,408
+Services,Health and Social Work,2009,3,428
+Services,Health and Social Work,2009,4,412
+Services,Health and Social Work,2010,1,432
+Services,Health and Social Work,2010,2,447
+Services,Health and Social Work,2010,3,457
+Services,Health and Social Work,2010,4,465
+Services,Health and Social Work,2011,1,430
+Services,Health and Social Work,2011,2,456
+Services,Health and Social Work,2011,3,460
+Services,Health and Social Work,2011,4,460
+Services,"Other Community, Social and Personal Service Activities",2001,1,939
+Services,"Other Community, Social and Personal Service Activities",2001,2,921
+Services,"Other Community, Social and Personal Service Activities",2001,3,875
+Services,"Other Community, Social and Personal Service Activities",2001,4,890
+Services,"Other Community, Social and Personal Service Activities",2002,1,886
+Services,"Other Community, Social and Personal Service Activities",2002,2,877
+Services,"Other Community, Social and Personal Service Activities",2002,3,914
+Services,"Other Community, Social and Personal Service Activities",2002,4,847
+Services,"Other Community, Social and Personal Service Activities",2003,1,876
+Services,"Other Community, Social and Personal Service Activities",2003,2,901
+Services,"Other Community, Social and Personal Service Activities",2003,3,817
+Services,"Other Community, Social and Personal Service Activities",2003,4,851
+Services,"Other Community, Social and Personal Service Activities",2004,1,879
+Services,"Other Community, Social and Personal Service Activities",2004,2,868
+Services,"Other Community, Social and Personal Service Activities",2004,3,782
+Services,"Other Community, Social and Personal Service Activities",2004,4,809
+Services,"Other Community, Social and Personal Service Activities",2005,1,763
+Services,"Other Community, Social and Personal Service Activities",2005,2,843
+Services,"Other Community, Social and Personal Service Activities",2005,3,714
+Services,"Other Community, Social and Personal Service Activities",2005,4,781
+Services,"Other Community, Social and Personal Service Activities",2006,1,781
+Services,"Other Community, Social and Personal Service Activities",2006,2,866
+Services,"Other Community, Social and Personal Service Activities",2006,3,833
+Services,"Other Community, Social and Personal Service Activities",2006,4,773
+Services,"Other Community, Social and Personal Service Activities",2007,1,858
+Services,"Other Community, Social and Personal Service Activities",2007,2,936
+Services,"Other Community, Social and Personal Service Activities",2007,3,823
+Services,"Other Community, Social and Personal Service Activities",2007,4,779
+Services,"Other Community, Social and Personal Service Activities",2008,1,846
+Services,"Other Community, Social and Personal Service Activities",2008,2,943
+Services,"Other Community, Social and Personal Service Activities",2008,3,847
+Services,"Other Community, Social and Personal Service Activities",2008,4,796
+Services,"Other Community, Social and Personal Service Activities",2009,1,857
+Services,"Other Community, Social and Personal Service Activities",2009,2,907
+Services,"Other Community, Social and Personal Service Activities",2009,3,876
+Services,"Other Community, Social and Personal Service Activities",2009,4,868
+Services,"Other Community, Social and Personal Service Activities",2010,1,949
+Services,"Other Community, Social and Personal Service Activities",2010,2,984
+Services,"Other Community, Social and Personal Service Activities",2010,3,866
+Services,"Other Community, Social and Personal Service Activities",2010,4,855
+Services,"Other Community, Social and Personal Service Activities",2011,1,906
+Services,"Other Community, Social and Personal Service Activities",2011,2,955
+Services,"Other Community, Social and Personal Service Activities",2011,3,923
+Services,"Other Community, Social and Personal Service Activities",2011,4,947
+Services,Private Households with Employed Persons,2001,1,1154
+Services,Private Households with Employed Persons,2001,2,1145
+Services,Private Households with Employed Persons,2001,3,1237
+Services,Private Households with Employed Persons,2001,4,1334
+Services,Private Households with Employed Persons,2002,1,1314
+Services,Private Households with Employed Persons,2002,2,1339
+Services,Private Households with Employed Persons,2002,3,1311
+Services,Private Households with Employed Persons,2002,4,1289
+Services,Private Households with Employed Persons,2003,1,1316
+Services,Private Households with Employed Persons,2003,2,1251
+Services,Private Households with Employed Persons,2003,3,1533
+Services,Private Households with Employed Persons,2003,4,1494
+Services,Private Households with Employed Persons,2004,1,1548
+Services,Private Households with Employed Persons,2004,2,1443
+Services,Private Households with Employed Persons,2004,3,1491
+Services,Private Households with Employed Persons,2004,4,1465
+Services,Private Households with Employed Persons,2005,1,1469
+Services,Private Households with Employed Persons,2005,2,1515
+Services,Private Households with Employed Persons,2005,3,1521
+Services,Private Households with Employed Persons,2005,4,1561
+Services,Private Households with Employed Persons,2006,1,1570
+Services,Private Households with Employed Persons,2006,2,1531
+Services,Private Households with Employed Persons,2006,3,1771
+Services,Private Households with Employed Persons,2006,4,1629
+Services,Private Households with Employed Persons,2007,1,1869
+Services,Private Households with Employed Persons,2007,2,1640
+Services,Private Households with Employed Persons,2007,3,1752
+Services,Private Households with Employed Persons,2007,4,1699
+Services,Private Households with Employed Persons,2008,1,1747
+Services,Private Households with Employed Persons,2008,2,1572
+Services,Private Households with Employed Persons,2008,3,1863
+Services,Private Households with Employed Persons,2008,4,1733
+Services,Private Households with Employed Persons,2009,1,1785
+Services,Private Households with Employed Persons,2009,2,1718
+Services,Private Households with Employed Persons,2009,3,2110
+Services,Private Households with Employed Persons,2009,4,1908
+Services,Private Households with Employed Persons,2010,1,2114
+Services,Private Households with Employed Persons,2010,2,1804
+Services,Private Households with Employed Persons,2010,3,1831
+Services,Private Households with Employed Persons,2010,4,1954
+Services,Private Households with Employed Persons,2011,1,1934
+Services,Private Households with Employed Persons,2011,2,1850
+Services,Private Households with Employed Persons,2011,3,1960
+Services,Private Households with Employed Persons,2011,4,2058
+Services,Extra-Territorial Organizations and Bodies,2001,1,7
+Services,Extra-Territorial Organizations and Bodies,2001,2,2
+Services,Extra-Territorial Organizations and Bodies,2001,3,0
+Services,Extra-Territorial Organizations and Bodies,2001,4,3
+Services,Extra-Territorial Organizations and Bodies,2002,1,2
+Services,Extra-Territorial Organizations and Bodies,2002,2,2
+Services,Extra-Territorial Organizations and Bodies,2002,3,3
+Services,Extra-Territorial Organizations and Bodies,2002,4,5
+Services,Extra-Territorial Organizations and Bodies,2003,1,5
+Services,Extra-Territorial Organizations and Bodies,2003,2,1
+Services,Extra-Territorial Organizations and Bodies,2003,3,1
+Services,Extra-Territorial Organizations and Bodies,2003,4,2
+Services,Extra-Territorial Organizations and Bodies,2004,1,2
+Services,Extra-Territorial Organizations and Bodies,2004,2,1
+Services,Extra-Territorial Organizations and Bodies,2004,3,2
+Services,Extra-Territorial Organizations and Bodies,2004,4,1
+Services,Extra-Territorial Organizations and Bodies,2005,1,0
+Services,Extra-Territorial Organizations and Bodies,2005,2,0
+Services,Extra-Territorial Organizations and Bodies,2005,3,2
+Services,Extra-Territorial Organizations and Bodies,2005,4,3
+Services,Extra-Territorial Organizations and Bodies,2006,1,1
+Services,Extra-Territorial Organizations and Bodies,2006,2,3
+Services,Extra-Territorial Organizations and Bodies,2006,3,1
+Services,Extra-Territorial Organizations and Bodies,2006,4,2
+Services,Extra-Territorial Organizations and Bodies,2007,1,2
+Services,Extra-Territorial Organizations and Bodies,2007,2,2
+Services,Extra-Territorial Organizations and Bodies,2007,3,2
+Services,Extra-Territorial Organizations and Bodies,2007,4,3
+Services,Extra-Territorial Organizations and Bodies,2008,1,2
+Services,Extra-Territorial Organizations and Bodies,2008,2,2
+Services,Extra-Territorial Organizations and Bodies,2008,3,1
+Services,Extra-Territorial Organizations and Bodies,2008,4,0
+Services,Extra-Territorial Organizations and Bodies,2009,1,3
+Services,Extra-Territorial Organizations and Bodies,2009,2,3
+Services,Extra-Territorial Organizations and Bodies,2009,3,2
+Services,Extra-Territorial Organizations and Bodies,2009,4,0
+Services,Extra-Territorial Organizations and Bodies,2010,1,2
+Services,Extra-Territorial Organizations and Bodies,2010,2,3
+Services,Extra-Territorial Organizations and Bodies,2010,3,1
+Services,Extra-Territorial Organizations and Bodies,2010,4,1
+Services,Extra-Territorial Organizations and Bodies,2011,1,3
+Services,Extra-Territorial Organizations and Bodies,2011,2,2
+Services,Extra-Territorial Organizations and Bodies,2011,3,2
+Services,Extra-Territorial Organizations and Bodies,2011,4,2
